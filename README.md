@@ -94,4 +94,3 @@ docs [📝]: Actualizar documentación de la API de tareas
 
 Se actualizó la documentación para reflejar los cambios en la API de tareas realizados en el commit anterior.
 ```
-
